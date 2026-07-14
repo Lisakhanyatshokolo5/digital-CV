@@ -114,7 +114,7 @@ Motivated and enthusiastic ICT Application Development student with practical ex
 # 🎥 Mock Interview Video
 
 <video width="700" controls>
-<source src="Lisakhanya Tshokolo mock interview 1(1).mp4" type="video/mp4">
+<source src="Lisakhanya Tshokolo interview.mp4" type="video/mp4">
 </video>
 
 ---
