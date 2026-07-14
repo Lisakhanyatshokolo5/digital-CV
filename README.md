@@ -1,161 +1,186 @@
-# lisakhanya Tshokolo Resume
+<h1 align="center">👩🏽‍💻 Lisakhanya Tshokolo</h1>
 
-📞 081 565 9910 
+<h3 align="center">
+ICT Application Development Student | Java Developer | Web Developer | AI Enthusiast
+</h3>
 
-📧 220239215@mycput.ac.za 
+<p align="center">
+📞 081 565 9910 <br>
+📧 220239215@mycput.ac.za
+</p>
 
-🔗[LinkendIn] (www.linkedin.com/in/lisakhanya-tshokolo-5157581a4/) 
-
-🔗[GitHub] (github.com/Lisakhanyatshokolo5)
-
-
----
-
-## 💡 About Me
-
-Motivated ICT Application Development student with hands-on experience in Java, web development, and database integration. Skilled in building responsive applications and working with SQL and modern development tools. Passionate about creating efficient, user-focused software solutions and continuously improving technical and problem-solving skills.
-
+<p align="center">
+<a href="https://www.linkedin.com/in/lisakhanya-tshokolo-5157581a4/">LinkedIn</a> •
+<a href="https://github.com/Lisakhanyatshokolo5">GitHub</a>
+</p>
 
 ---
 
-## 🎓 Education
+# 📑 Table of Contents
 
-**Centre of Science and Technology**
-
-National Senior Certification
-
-2015-2019
-
-**Cape Peninsula University Of Technology**
-
-Diploma in ICT: Application Development
-
-2024-present
-
-
+- About Me
+- Education
+- Technical Skills
+- Work Experience
+- References
+- Mock Interview Video
+- Reflection on Coding in Markdown
+- Reflection on Mock Interview
+- Reflection on GitHub Pages
 
 ---
 
-## 💻 Technical Skills
+# 💡 About Me
 
-**Programming Languages:**  Java, Python, SQL, JavaScript, HTML/CSS, PHP
-
-**Frameworks:** React, JUnit, Wordpress, Laravel, Spring Boot, Apache Derby, Maven, JDBC
-
-**Developer Tools:** Git, VS Code, Visual Studio, IntelliJ IDEA, Eclipse, NetBeans, Figma
+Motivated and enthusiastic ICT Application Development student with practical experience in software development, web development, and database integration. I enjoy designing and developing user-friendly applications that solve real-world problems while continuously expanding my technical knowledge. My experience includes Java development, SQL databases, web technologies, and modern development frameworks. I am passionate about Artificial Intelligence, software engineering, and building innovative digital solutions that create meaningful impact.
 
 ---
 
+# 🎓 Education
 
-## Work Experience
+| Institution | Qualification | Period |
+|-------------|---------------|--------|
+| Centre of Science and Technology | National Senior Certificate | 2015 – 2019 |
+| Cape Peninsula University of Technology | Diploma in ICT: Application Development | 2024 – Present |
 
-### Junior Web Developer / Digital Marketing Inter
+---
+
+# 💻 Technical Skills
+
+| Category | Skills |
+|-----------|--------|
+| **Programming Languages** | Java, Python, SQL, JavaScript, HTML5, CSS3, PHP |
+| **Frameworks & Technologies** | React, Laravel, Spring Boot, JUnit, WordPress, Apache Derby, Maven, JDBC |
+| **Developer Tools** | Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, Eclipse, NetBeans, Figma |
+
+---
+
+# 🚀 Technical Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 💼 Work Experience
+
+## 🌐 Junior Web Developer / Digital Marketing Intern
+
 **Y Jamodien & Associates**
-May 2021 - Dec 2022
 
-- Designed and updated company websites applying SEO best practices.
-- Improved online visibility and engagement.
-- Supported digital marketing campaigns through website optimization and content updates.
-- Performed performance analysis to enhance web presence.
+📅 **May 2021 – December 2022**
 
+### Responsibilities
 
-
-### Web Developer
-**Younglings Africa**
-Sep 2020 - Mar 2021
-
-- Developed and maintained responsive websites.
-- Ensured cross-browser compatibility and user-friendly design.
-- Collaborated with designers and stakeholders.
-- Implemented functional features and optimized performance.
-
-
-
-### Student Intern
-**CAPACITI**
-Mar 2020 - Aug 2020
-
-- Assisted in web development and digital projects.
-- Gained hands-on experience in front-end development.
-- Collaborated with team members on technical tasks.
-- Improved problem-solving and professional communication skills.
+- Designed and maintained company websites.
+- Applied SEO best practices to improve search engine visibility.
+- Assisted with digital marketing campaigns.
+- Optimised website performance and user experience.
+- Updated website content and monitored online engagement.
 
 ---
 
-## ☎️ References
+## 💻 Web Developer
 
-**Fiona Tabraham**
+**Younglings Africa**
 
-🏢 CEO - CAPACITI
+📅 **September 2020 – March 2021**
 
-☎️ 021 003 7509
+### Responsibilities
+
+- Developed responsive websites using modern web technologies.
+- Ensured compatibility across different browsers and devices.
+- Collaborated with designers and stakeholders.
+- Implemented new website features and functionality.
+- Improved website performance and usability.
+
+---
+
+## 👩🏽‍💻 Student Intern
+
+**CAPACITI**
+
+📅 **March 2020 – August 2020**
+
+### Responsibilities
+
+- Assisted with front-end web development projects.
+- Participated in collaborative software development activities.
+- Improved technical and problem-solving skills.
+- Gained practical experience working within an agile environment.
+- Strengthened communication and teamwork skills.
+
+---
+
+# ☎️ References
+
+## Fiona Tabraham
+
+**CEO – CAPACITI**
+
+📞 021 003 7509
 
 📧 hello@capaciti.org.za
 
-**Yumna Jamodien**
+---
 
-🏢 CEO - Y Jamodien & Associates
+## Yumna Jamodien
 
-☎️ 068 081 3264
+**CEO – Y Jamodien & Associates**
+
+📞 068 081 3264
 
 📧 yumna@yja.co.za
 
 ---
 
-## 📹 Mock Interview Video
-<video width="600" controls src="Lisakhanya Tshokolo mock interview 1(1).mp4">
+# 🎥 Mock Interview Video
+
+<video width="700" controls>
+<source src="Lisakhanya Tshokolo mock interview 1(1).mp4" type="video/mp4">
 </video>
 
+---
 
-## Reflection on Coding in Markdown (STAR
+# 📝 Reflection on Coding in Markdown
 
-### Situation
-As part of Project Presentation 3, I was required to design and publish a professional digital portfolio using GitHub and Markdown.
-Although I had experience using GitHub for version control in coding projects, I had never used Markdown extensively to create structured professional documentation.
+Creating my digital portfolio using GitHub Flavoured Markdown was a valuable learning experience that introduced me to a new way of presenting technical information professionally. Although I had previously used GitHub for version control, I had very little experience with Markdown formatting. Throughout this project, I researched Markdown syntax and learned how to use headings, tables, hyperlinks, badges, images, and other formatting techniques to create a well-structured and visually appealing portfolio. I paid close attention to consistency, readability, and organisation while continuously improving the layout and correcting formatting issues. Completing this project strengthened my technical documentation skills, improved my understanding of how developers create professional project documentation, and increased my confidence in presenting my work through GitHub.
 
-### Task
-My task was to create a well-formatted CV using GitHub Flavoured Markdown (GFM), ensuring that it was clear, professional, and suitable for online presentation.
-I also needed to understand how Markdown formatting works in real-world development environments.
+---
 
-### Action
-I researched Markdown syntax and practiced using headings, bullet points, bold text, links, and embedded content.
-I structured my CV logically, separating sections such as education, and technical skills. 
-I applied clean formatting principles to improve readability and ensured consistency throughout the document.
+# 🎤 Reflection on Mock Interview
 
-### Result
-As a result, I successfully created a professional, structured online CV. This experience strengthened my technical documentation skills and improved my understanding of how developers communicate clearly using Markdown. I also gained confidence in presenting my work in a professional digital format.
+Participating in the mock interview provided me with practical experience of what to expect during a professional job interview within the IT industry. Preparing for the interview encouraged me to review my academic projects, technical knowledge, and previous work experience so that I could confidently discuss my skills and achievements. During the interview, I focused on communicating clearly, maintaining professionalism, and explaining my technical contributions in a structured and confident manner. The experience highlighted my strengths in explaining technical concepts while also showing me that I can continue improving my confidence and response speed when answering unexpected questions. Overall, the mock interview prepared me for future employment opportunities and increased my confidence in presenting myself as a capable ICT professional.
 
-## Reflection on Mock Interview (STAR)
+---
 
-### Situation
-During the work readiness training, I participated in a mock interview designed to simulate a real job interview in the IT industry. 
-The purpose was to assess both technical knowledge and professional communication skills.
+# 🌍 Reflection on GitHub Pages
 
-### Task
-My task was to respond confidently to both behavioral and technical questions while presenting myself as a capable and work-ready ICT student. 
-I needed to demonstrate my problem-solving abilities and explain my academic projects clearly.
+Publishing my portfolio using GitHub Pages allowed me to experience the complete process of deploying a professional website for public access. I learned how to configure the repository settings, enable GitHub Pages, and verify that my portfolio displayed correctly after deployment. Throughout the process, I tested hyperlinks, reviewed formatting, and made improvements to ensure that the final website was organised, functional, and visually appealing. This experience enhanced my understanding of website deployment and demonstrated the importance of maintaining an accessible online professional portfolio. It also strengthened my confidence in using GitHub as both a version control platform and a tool for showcasing my work to lecturers, recruiters, and future employers.
 
-### Action
-I prepared by reviewing common interview questions and revising my key projects, including the Student Accommodation App where I handled database design and backend support. During the interview, I structured my answers using the STAR method to ensure clarity and professionalism. 
-I focused on speaking clearly, maintaining eye contact, and explaining my technical contributions in a concise manner.
+---
 
-### Result
-The mock interview helped me identify my strengths in technical explanation and areas where I can improve, particularly in reducing nervousness and improving response speed. Overall, the experience significantly increased my confidence and prepared me for real-world job interviews in the IT field.
+# 🌟 Career Objective
 
-## Reflection on GitHub Pages (STAR)
+> To secure opportunities that allow me to grow as a Software Developer while contributing innovative solutions through Java development, Artificial Intelligence, backend technologies, and modern web development. I am committed to continuous learning and using technology to solve real-world challenges.
 
-### Situation
-After completing my digital portfolio, I needed to publish it online using GitHub Pages so that it would be publicly accessible and professionally presented.
+---
 
-### Task
-My task was to configure the repository settings correctly and deploy the portfolio without errors.
-I also needed to ensure that the formatting displayed properly once published.
-
-### Action
-I navigated to the repository settings and enabled GitHub Pages from the main branch. 
-I tested the generated link to confirm that all sections were visible and formatted correctly.
-I reviewed the layout and corrected minor formatting issues to ensure the portfolio appeared professional and well-organized.
-
-### Result
-I successfully deployed my portfolio online, gaining practical experience in website hosting using GitHub Pages. 
-This experience improved my understanding of how developers publish static websites and strengthened my confidence in managing online project presentations.
+<p align="center">
+⭐ Thank you for taking the time to view my portfolio.
+</p>
