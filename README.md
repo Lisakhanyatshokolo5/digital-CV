@@ -186,9 +186,10 @@ Through Varsity MentorHub, I aim to:
 
 ---
 
-# Trello Link
+# Trello
+### Project Management Board
 
-https://trello.com/invite/b/69f300a6a6b541a2af8b15ef/ATTI0f449a982256aac946417b8d3e35f5d4E81F2DA7/varsity-mentorhub
+[**View the Varsity MentorHub Trello Board →**](https://trello.com/invite/b/69f300a6a6b541a2af8b15ef/ATTI0f449a982256aac946417b8d3e35f5d4E81F2DA7/varsity-mentorhub)
 
 ---
 
