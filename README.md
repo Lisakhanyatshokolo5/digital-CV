@@ -133,6 +133,9 @@ Participating in the mock interview provided me with practical experience of wha
 
 Publishing my portfolio using GitHub Pages allowed me to experience the complete process of deploying a professional website for public access. I learned how to configure the repository settings, enable GitHub Pages, and verify that my portfolio displayed correctly after deployment. Throughout the process, I tested hyperlinks, reviewed formatting, and made improvements to ensure that the final website was organised, functional, and visually appealing. This experience enhanced my understanding of website deployment and demonstrated the importance of maintaining an accessible online professional portfolio. It also strengthened my confidence in using GitHub as both a version control platform and a tool for showcasing my work to lecturers, recruiters, and future employers.
 
+---
+
+
 # 💻 VARSITY MENTORHUB
 
 # 🚀 About the Project
@@ -156,7 +159,6 @@ Our team uses Agile practices and Trello to organise project activities and moni
 The project documentation includes an Agile Team Charter, user stories and tasks, product and sprint backlogs, and an Agile Logbook.
 These artefacts help document the team's planning, responsibilities and progress throughout the project.
 
----
 
 # 👩🏽‍💻 My Role and Contribution
 My role in Varsity MentorHub is **frontend and backend developer**.
@@ -181,6 +183,12 @@ Through Varsity MentorHub, I aim to:
 - Understand how Agile practices support software development.
 - Improve communication and collaboration within a development team.
 - Learn to evaluate feedback and improve the quality of my work.
+
+---
+
+# Trello Link
+
+https://trello.com/invite/b/69f300a6a6b541a2af8b15ef/ATTI0f449a982256aac946417b8d3e35f5d4E81F2DA7/varsity-mentorhub
 
 ---
 
