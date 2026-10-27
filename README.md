@@ -161,23 +161,19 @@ These artefacts help document the team's planning, responsibilities and progress
 
 
 # 👩🏽‍💻 My Role and Contribution
-My role in Varsity MentorHub is **frontend and backend developer**.
-This role connects with my ICT Application Development studies and gives me an opportunity to apply my technical knowledge within a collaborative project environment.
+My role in Varsity MentorHub is Product Owner, with frontend and backend development responsibilities. As Product Owner, I contributed to product review, feedback, backlog management and sprint planning. As a developer, I applied my ICT Application Development knowledge within a collaborative project environment.
 
-### Frontend Development
-Frontend development focuses on the parts of an application that users interact with.
-My responsibilities in this area relate to the user interface and the presentation of information. The specific features and tasks I contribute to should align with the team's agreed requirements and sprint assignments.
+#### Frontend Development
+Frontend development focuses on the parts of an application that users interact with. My responsibilities in this area related to the user interface and the presentation of information, based on the team's agreed requirements and sprint assignments.
 
-### Backend Development
-Backend development focuses on the application logic and the processing of information behind the user interface.
-My responsibilities in this area relate to implementing application functionality and supporting communication between the frontend and backend, according to the agreed design and requirements.
+#### Backend Development
+Backend development focuses on the application logic and the processing of information behind the user interface. My responsibilities in this area related to implementing application functionality and supporting communication between the frontend and backend, according to the agreed design and requirements.
 
 ### Collaboration
-As a developer, I also need to communicate with other team members, understand requirements, coordinate tasks and report progress.
-I recognise that successful software development requires more than writing code. It also requires planning, communication, testing, documentation and continuous improvement.
+As a Product Owner and developer, I also needed to communicate with other team members, understand requirements, coordinate tasks and report progress. I recognise that successful software development requires more than writing code. It also requires planning, communication, testing, documentation and continuous improvement.
 
 ### Personal Learning Goals
-Through Varsity MentorHub, I aim to:
+Through Varsity MentorHub, I aimed to:
 - Strengthen my frontend and backend development skills.
 - Improve my ability to interpret and implement requirements.
 - Understand how Agile practices support software development.
@@ -240,7 +236,7 @@ Varsity MentorHub is a team project aimed at connecting university students with
 
 ## Example User Stories
 
-| ID | Example User Story |
+| ID | User Story |
 |---|---|
 | US01 | As a student, I want to create an account so that I can access the platform. |
 | US02 | As a student, I want to find available mentors so that I can identify someone who can help me academically. |
@@ -249,12 +245,11 @@ Varsity MentorHub is a team project aimed at connecting university students with
 | US05 | As a student, I want to connect with a suitable mentor so that I can receive academic guidance. |
 |US07| As a Student or Tutor, I want to register an account and log in securely, so that I can access my personalized Varsity MentorHub dashboard.|
 |US08|  As a Student or Tutor, I want to register an account and log in securely, so that I can access my personalized Varsity MentorHub dashboard.|
-|US09| As a Student or Tutor, I want to register an account and log in securely, so that I can access my personalized Varsity MentorHub dashboard.|
-|US10| As a Tutor, I want to create and update my public profile, so that students can view my qualifications, hourly rates, and subject expertise.|
-|US11| As a Student, I want to search for tutors by subject and book available session slots, so that I can reserve dedicated study time.|
-|US12| As a Student or Tutor, I want to send direct messages and receive booking alerts, so that I stay informed about scheduled sessions.|
-|US13| As a Quality Assurance Team, I want to conduct end-to-end testing across all user journeys, so that critical bugs are triaged and resolved before release.|
-|US14| As a Project Team, I want to optimize application performance and deliver our final presentation, so that the project successfully meets all academic standards.|
+|US9| As a Tutor, I want to create and update my public profile, so that students can view my qualifications, hourly rates, and subject expertise.|
+|US10| As a Student, I want to search for tutors by subject and book available session slots, so that I can reserve dedicated study time.|
+|US11| As a Student or Tutor, I want to send direct messages and receive booking alerts, so that I stay informed about scheduled sessions.|
+|US12| As a Quality Assurance Team, I want to conduct end-to-end testing across all user journeys, so that critical bugs are triaged and resolved before release.|
+|US13| As a Project Team, I want to optimize application performance and deliver our final presentation, so that the project successfully meets all academic standards.|
 
 ## Breaking Stories into Tasks
 A user story can be divided into smaller development tasks.
@@ -299,7 +294,7 @@ These screenshots provide evidence of User Stories and Task for Varsity MentorHu
 </div>
 
 ## Reflection
-Varsity MentorHub needed to address the needs of students who could benefit from mentorship and accessible learning resources. My responsibility was to help ensure that the product requirements reflected user needs and could be broken down into manageable development tasks. I considered how user stories could describe the needs of different users and explain the value they would receive from the platform. These stories could then be translated into smaller tasks to guide development and clarify the work required. Through this process, I learned that well-defined user stories help the team understand what needs to be developed and why it matters. I also recognised the importance of clear acceptance criteria to ensure that completed features meet the intended requirements.
+Varsity MentorHub needed to address the needs of students who could benefit from mentorship and accessible learning resources. My responsibility was to help ensure that the product requirements reflected user needs and could be broken down into manageable development tasks. I considered how user stories could describe the needs of different users and explain the value they would receive from the platform. These stories could then be translated into smaller tasks to guide development and clarify the work required. Through this process, I learned that well-defined user stories help the team understand what needs to be developed and why it matters. I also recognized the importance of clear acceptance criteria to ensure that completed features meet the intended requirements.
 
 ---
 
@@ -353,7 +348,7 @@ These screenshots provide evidence of the sprint backlog for Varsity MentorHub.
 </div>
 
 ## Reflection
-The Varsity MentorHub team needed to organise selected project activities into manageable tasks that could be addressed during a sprint. My responsibility was to contribute to my assigned work and monitor progress towards the team's objectives. I used the team's task-tracking approach to understand outstanding activities and follow the progress of the work. Breaking larger activities into smaller tasks made it easier to identify what needed to be done and recognise work that was still incomplete. This experience helped me understand the importance of setting realistic sprint goals, communicating progress and identifying potential delays early. I learned that a well-managed sprint backlog helps the team stay organised and focused on completing its planned work.
+The Varsity MentorHub team needed to organize selected project activities into manageable tasks that could be addressed during a sprint. My responsibility was to contribute to my assigned work and monitor progress towards the team's objectives. I used the team's task-tracking approach to understand outstanding activities and follow the progress of the work. Breaking larger activities into smaller tasks made it easier to identify what needed to be done and recognize work that was still incomplete. This experience helped me understand the importance of setting realistic sprint goals, communicating progress and identifying potential delays early. I learned that a well-managed sprint backlog helps the team stay organized and focused on completing its planned work.
 
 ---
 
