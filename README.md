@@ -213,7 +213,11 @@ The charter also identifies respect, transparency, accountability, trust and a l
 
 ## Evidence
 
-///upload as pdf
+<iframe
+  src="Documents/Agile Team Charter(1)(1).pdf"
+  width="100%"
+  height="600px">
+</iframe>
 
 ## Reflection
 Varsity MentorHub is a team project aimed at connecting university students with mentorship and accessible learning resources. To work effectively towards this goal, the team needed a clear understanding of its purpose, individual responsibilities and working agreements. As the Product Owner, my responsibility was to contribute to defining the project's direction and ensuring that the team understood its objectives. We established team roles, communication channels, values and ways of working to support collaboration and accountability. When the team composition changed, the charter needed to be updated to reflect the new team structure. This experience taught me that an Agile Team Charter is important for establishing shared expectations and should be reviewed whenever team roles or project requirements change.
@@ -253,8 +257,34 @@ For example, if user registration is included in the approved project requiremen
 7. Document the results.
    
 ## Evidence
+These screenshots provide evidence of User Stories and Task for Varsity MentorHub.
 
-**Insert a screenshot of your team's actual user stories and tasks here.**
+<div align="center">
+
+<table>
+<tr>
+<td><img src="Documents/1 Task & User story.png" width="250" alt="Task & User story 1"></td>
+<td><img src="Documents/2 Task & User story.png" width="250" alt="Task & User story 2"></td>
+<td><img src="Documents/3 Task & User Story.png" width="250" alt="Task & User story 3"></td>
+</tr>
+<tr>
+<td><img src="Documents/4 task.png" width="250" alt="Task & User story 4"></td>
+<td><img src="Documents/5 task.png" width="250" alt="Task & User story 5"></td>
+<td><img src="Documents/6 task.png" width="250" alt="Task & User story 6"></td>
+</tr>
+<tr>
+<td><img src="Documents/7 task.png" width="250" alt="Task & User story 7"></td>
+<td><img src="Documents/8 task.png" width="250" alt="Task & User story 8"></td>
+<td><img src="Documents/9 task.png" width="250" alt="Task & User story 9"></td>
+</tr>
+<tr>
+<td><img src="Documents/10 task.png" width="250" alt="Task & User story 10"></td>
+<td><img src="Documents/11 task.png" width="250" alt="Task & User story 11"></td>
+<td><img src="Documents/12 task.png" width="250" alt="Task & User story 12"></td>
+</tr>
+</table>
+
+</div>
 
 ## Reflection
 Varsity MentorHub needed to address the needs of students who could benefit from mentorship and accessible learning resources. My responsibility was to help ensure that the product requirements reflected user needs and could be broken down into manageable development tasks. I considered how user stories could describe the needs of different users and explain the value they would receive from the platform. These stories could then be translated into smaller tasks to guide development and clarify the work required. Through this process, I learned that well-defined user stories help the team understand what needs to be developed and why it matters. I also recognised the importance of clear acceptance criteria to ensure that completed features meet the intended requirements.
@@ -262,20 +292,53 @@ Varsity MentorHub needed to address the needs of students who could benefit from
 ---
 
 # Product Backlog
+
 ## Evidence
 
-/// Save your Trello screenshot
+<img src="Documents/product backlog.png"
+     alt="Product BackLog"
+     width="700">
 
 ## Reflection
-During the development of Varsity MentorHub, the team had several project activities and potential features that needed to be organised and prioritised. My responsibility was to contribute to product planning and ensure that the work remained aligned with the project's objectives. The team used a Trello board with columns such as Product Backlog, In Progress and Completed to track activities and monitor progress. This visual approach helped make the status of project work easier to understand. Through this experience, I learned that a product backlog supports effective planning by helping the team identify and prioritise important work. I also realised that the backlog must be reviewed and updated regularly to ensure that outstanding tasks remain visible and relevant.
+During the development of Varsity MentorHub, the team had several project activities and potential features that needed to be organized and prioritized. My responsibility was to contribute to product planning and ensure that the work remained aligned with the project's objectives. The team used a Trello board with columns such as Product Backlog, In Progress and Completed to track activities and monitor progress. This visual approach helped make the status of project work easier to understand. Through this experience, I learned that a product backlog supports effective planning by helping the team identify and priorities important work. I also realized that the backlog must be reviewed and updated regularly to ensure that outstanding tasks remain visible and relevant.
 
 ---
 
 # Sprint Backlog
-
 ## Evidence
+These screenshots provide evidence of the sprint backlog for Varsity MentorHub.
 
-**Insert a screenshot of your team's actual Sprint Backlog here.**
+<div align="center">
+
+<table>
+<tr>
+<td><img src="Documents/sprint 1.png" width="250" alt="Sprint backlog 1"></td>
+<td><img src="Documents/sprint 2.png" width="250" alt="Sprint backlog 2"></td>
+<td><img src="Documents/sprint 3.png" width="250" alt="Sprint backlog 3"></td>
+</tr>
+<tr>
+<td><img src="Documents/sprint 4.png" width="250" alt="Sprint backlog 4"></td>
+<td><img src="Documents/sprint 5.png" width="250" alt="Sprint backlog 5"></td>
+<td><img src="Documents/sprint 6.png" width="250" alt="Sprint backlog 6"></td>
+</tr>
+<tr>
+<td><img src="Documents/sprint 7.png" width="250" alt="Sprint backlog 7"></td>
+<td><img src="Documents/sprint 8.png" width="250" alt="Sprint backlog 8"></td>
+<td><img src="Documents/sprint 9.png" width="250" alt="Sprint backlog 9"></td>
+</tr>
+<tr>
+<td><img src="Documents/sprint 10.png" width="250" alt="Sprint backlog 10"></td>
+<td><img src="Documents/sprint 11.png" width="250" alt="Sprint backlog 11"></td>
+<td><img src="Documents/sprint 12.png" width="250" alt="Sprint backlog 12"></td>
+</tr>
+<tr>
+<td><img src="Documents/sprint 13.png" width="250" alt="Sprint backlog 13"></td>
+<td><img src="Documents/sprint 14.png" width="250" alt="Sprint backlog 14"></td>
+<td><img src="Documents/sprint 15.png" width="250" alt="Sprint backlog 15"></td>
+</tr>
+</table>
+
+</div>
 
 ## Reflection
 The Varsity MentorHub team needed to organise selected project activities into manageable tasks that could be addressed during a sprint. My responsibility was to contribute to my assigned work and monitor progress towards the team's objectives. I used the team's task-tracking approach to understand outstanding activities and follow the progress of the work. Breaking larger activities into smaller tasks made it easier to identify what needed to be done and recognise work that was still incomplete. This experience helped me understand the importance of setting realistic sprint goals, communicating progress and identifying potential delays early. I learned that a well-managed sprint backlog helps the team stay organised and focused on completing its planned work.
@@ -285,12 +348,14 @@ The Varsity MentorHub team needed to organise selected project activities into m
 # Agile Logbook
 ## Evidence
 
-**Insert a screenshot or extract from your actual Agile Logbook here.**
+The following Word documents provide supporting evidence of the project activities, progress and reflections throughout the development of Varsity MentorHub.
+
+1. [📄 View Logbook – Document 1 (Word)](Documents/PRP37XS Agile Logbook Lisakhanya(1).docx)
+2. [📄 View Logbook – Document 2 (Word)](Documents/Agile Logbook Template- 21-24(1)(1).docx)
+3. [📄 View Logbook – Document 3 (Word)](Documents/Logbook Template- 28-31(1)(1).docx)
+4. [📄 View Logbook – Document 4 (Word)](Documents/Logbook Template 4-7 August(1).docx)
 
 ## Reflection
 During the Varsity MentorHub project, it was important to keep track of activities, progress, challenges and decisions throughout the development process. My responsibility was to record relevant project work and reflect on my contributions and the team's progress. The Agile logbook provided a way to document activities, outstanding tasks, challenges encountered and lessons learned. Maintaining these records helped demonstrate how the project progressed over time and provided information for reflection. Through this experience, I learned that consistent documentation supports accountability and makes it easier to evaluate decisions and identify areas for improvement. In future projects, I would ensure that the logbook is updated regularly rather than leaving documentation until the end of a sprint.
 
 </div>
-
-
----
