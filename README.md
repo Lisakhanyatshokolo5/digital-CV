@@ -191,6 +191,9 @@ Through Varsity MentorHub, I aim to:
 
 [**View the Varsity MentorHub Trello Board →**](https://trello.com/invite/b/69f300a6a6b541a2af8b15ef/ATTI0f449a982256aac946417b8d3e35f5d4E81F2DA7/varsity-mentorhub)
 
+# Live Product 
+[**View Live product →**](https://varsitymentorhub.live/)
+
 ---
 
 # 📋 Agile Project Evidence
