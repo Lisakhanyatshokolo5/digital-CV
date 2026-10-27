@@ -214,7 +214,7 @@ The charter also identifies respect, transparency, accountability, trust and a l
 ## Evidence
 
 <iframe
-  src="Documents/Agile Team Charter(1)(1).pdf"
+  src="Documents/Agile Team Charter (1)(1).pdf"
   width="100%"
   height="600px">
 </iframe>
@@ -268,7 +268,7 @@ These screenshots provide evidence of User Stories and Task for Varsity MentorHu
 <td><img src="Documents/3 Task & User Story.png" width="250" alt="Task & User story 3"></td>
 </tr>
 <tr>
-<td><img src="Documents/4 task.png" width="250" alt="Task & User story 4"></td>
+<td><img src="Documents/4 Task.png" width="250" alt="Task & User story 4"></td>
 <td><img src="Documents/5 task.png" width="250" alt="Task & User story 5"></td>
 <td><img src="Documents/6 task.png" width="250" alt="Task & User story 6"></td>
 </tr>
@@ -334,7 +334,7 @@ These screenshots provide evidence of the sprint backlog for Varsity MentorHub.
 <tr>
 <td><img src="Documents/sprint 13.png" width="250" alt="Sprint backlog 13"></td>
 <td><img src="Documents/sprint 14.png" width="250" alt="Sprint backlog 14"></td>
-<td><img src="Documents/sprint 15.png" width="250" alt="Sprint backlog 15"></td>
+<td><img src="Documents/Sprint 15.png" width="250" alt="Sprint backlog 15"></td>
 </tr>
 </table>
 
