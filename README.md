@@ -350,12 +350,37 @@ The Varsity MentorHub team needed to organise selected project activities into m
 
 The following Word documents provide supporting evidence of the project activities, progress and reflections throughout the development of Varsity MentorHub.
 
-1. [📄 View Logbook – Document 1 (Word)](Documents/PRP37XS Agile Logbook Lisakhanya(1).docx)
-2. [📄 View Logbook – Document 2 (Word)](Documents/Agile Logbook Template- 21-24(1)(1).docx)
-3. [📄 View Logbook – Document 3 (Word)](Documents/Logbook Template- 28-31(1)(1).docx)
-4. [📄 View Logbook – Document 4 (Word)](Documents/Logbook Template 4-7 August(1).docx)
+### Logbook 1
+
+<iframe
+  src="Documents/Logbook 1.pdf"
+  width="100%"
+  height="600px">
+</iframe>
+
+### Logbook 2
+
+<iframe
+  src="Documents/Logbook 2.pdf"
+  width="100%"
+  height="600px">
+</iframe>
+
+### Logbook 3
+
+<iframe
+  src="Documents/Logbook 3.pdf"
+  width="100%"
+  height="600px">
+</iframe>
+
+### Logbook 4
+
+<iframe
+  src="Documents/Logbook 4.pdf"
+  width="100%"
+  height="600px">
+</iframe>
 
 ## Reflection
 During the Varsity MentorHub project, it was important to keep track of activities, progress, challenges and decisions throughout the development process. My responsibility was to record relevant project work and reflect on my contributions and the team's progress. The Agile logbook provided a way to document activities, outstanding tasks, challenges encountered and lessons learned. Maintaining these records helped demonstrate how the project progressed over time and provided information for reflection. Through this experience, I learned that consistent documentation supports accountability and makes it easier to evaluate decisions and identify areas for improvement. In future projects, I would ensure that the logbook is updated regularly rather than leaving documentation until the end of a sprint.
-
-</div>
